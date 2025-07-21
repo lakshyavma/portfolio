@@ -1,0 +1,16 @@
+{
+  "name": "lakshan-portfolio",
+  "version": "1.0.0",
+  "description": "Lakshya Verma`s Portfolio Website",
+  "main": "index.html",
+  "scripts": {
+    "dev": "http-server . -p 3000 -o",
+    "start": "http-server . -p 3000"
+  },
+  "keywords": ["portfolio", "developer", "website"],
+  "author": "Lakshya Verma",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
